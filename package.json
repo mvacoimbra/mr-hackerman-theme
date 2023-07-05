@@ -1,6 +1,6 @@
 {
   "name": "mr-hackerman-theme",
-  "icon": "./theme-icon.png",
+  "icon": "theme-icon.png",
   "displayName": "Hackerman Theme",
   "description": "My first color theme!",
   "version": "0.2.0",
