@@ -1,0 +1,21 @@
+{
+  "name": "mr-hackerman-theme",
+  "displayName": "Mr. Hackermen Theme",
+  "description": "My first color theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hackerman Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hackerman Theme-color-theme.json"
+      }
+    ]
+  }
+}
