@@ -1,8 +1,9 @@
 {
   "name": "mr-hackerman-theme",
-  "displayName": "Mr. Hackermen Theme",
+  "icon": "https://res.cloudinary.com/mvacoimbra/image/upload/v1688592058/hackerman-theme/theme-icon.png",
+  "displayName": "Hackerman Theme",
   "description": "My first color theme!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "mvacoimbra",
   "repository": {
     "type": "git",
