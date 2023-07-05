@@ -3,6 +3,18 @@
   "displayName": "Mr. Hackermen Theme",
   "description": "My first color theme!",
   "version": "0.0.1",
+  "publisher": "mvacoimbra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvacoimbra/mr-hackerman-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Hackerman",
+    "hacker",
+    "mvacoimbra"
+  ],
   "engines": {
     "vscode": "^1.79.0"
   },
