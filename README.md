@@ -20,4 +20,4 @@ Unleash your creativity and dive into the digital realm with our Cyberpunk Fusio
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/mvacoimbra/mr-hackerman-theme/blob/main/LICENSE.md)
